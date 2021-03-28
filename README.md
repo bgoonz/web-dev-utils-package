@@ -23,7 +23,7 @@
 npm i web-dev-utils
 ```
 
-
+</div>
 ---
 
 ```
