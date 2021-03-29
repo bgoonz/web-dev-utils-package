@@ -15,6 +15,44 @@
 ### This code is not exclusivley written by me ... it is just a list of files I use often during website development... use at your own risk
 
 
+
+
+## Copy-2-Clipboard:
+
+![](./images/copy-2-clip.PNG)
+
+---
+
+## Git-Html Preview-Tool
+
+![](images/git-preview.gif)
+
+
+
+---
+
+## Markdown Templates
+
+![](images/markdown-template.png)
+
+---
+
+## Text Tools
+
+![](images/TexTools.PNG)
+
+
+---
+
+## Automatic Table Of Contents Generator
+
+![](images/toc.PNG)
+
+
+
+
+
+
 ---
 
 ### Usage:
