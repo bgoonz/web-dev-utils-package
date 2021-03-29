@@ -23,7 +23,7 @@
 
 ---
 
-## Git-Html Preview-Tool
+## Git-Html Preview-Tool:
 
 ![](images/git-preview.gif)
 
@@ -31,26 +31,30 @@
 
 ---
 
-## Markdown Templates
+## Markdown Templates:
 
 ![](images/markdown-template.png)
 
 ---
 
-## Text Tools
+## Text Tools:
 
 ![](images/TexTools.PNG)
 
 
 ---
 
-## Automatic Table Of Contents Generator
+## Automatic Table Of Contents Generator:
 
 ![](images/toc.PNG)
 
 
 
+---
 
+## Text-File-2-JS-Array:
+
+![](images/text-file-2-JS-Array.PNG)
 
 
 ---
